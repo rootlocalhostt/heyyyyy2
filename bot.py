@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import socket,threading,time,requests,random,cloudscraper,string,datetime,os,socks,ssl,cfscrape,struct
 from fake_headers import Headers
 from fake_useragent import FakeUserAgent,UserAgent
